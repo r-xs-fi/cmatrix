@@ -1,6 +1,7 @@
 Container image for CMatrix - matrix like effect in your terminal
 
 ## Usage
+
 ```shell
 docker run --rm -it ghcr.io/r-xs-fi/cmatrix
 ```
